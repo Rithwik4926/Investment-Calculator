@@ -1,0 +1,42 @@
+/* Center the whole container */
+.results-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Style and center the table */
+table {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+/* Style table headers and cells */
+th,
+td {
+  padding: 12px;
+  border: 1px solid #aca8a8;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Optional styling for header */
+th {
+  background-color: #000000;
+  font-weight: bold;
+}
+
+/* Center the no-results message */
+.center {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: 20px;
+}
+
+div{
+  p{
+    color: white;
+  }
+}
